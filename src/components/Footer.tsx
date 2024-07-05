@@ -75,7 +75,7 @@ className="hover:text-white transition-colors duration-300"
     <p>Nagpur, India</p>
     <p> 10001</p>
      <p>Email: info@musicschool.com</p>
-       <p>Phone: (123) 456-7890</p>
+       <p>Phone: 8835423456</p>
          </div>
          </div>
             <p className="text-center text-xs pt-8">© 2024 Music School. All rights reserved.</p>
