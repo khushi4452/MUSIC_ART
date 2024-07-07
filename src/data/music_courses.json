@@ -6,7 +6,7 @@
         "slug": "guitar-fundamentals",
         "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
         "price": 99.99,
-        "instructor": "Johnn Doe",
+        "instructor": "John Doe",
         "isFeatured": true,
         "image": "/courses/guitar.jpg" 
       },
