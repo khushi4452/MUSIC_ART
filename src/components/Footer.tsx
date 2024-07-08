@@ -6,7 +6,7 @@ function Footer() {
       <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
       <p className="mb-4">
            Music School is the a premier institution dedicated to teaching the art
-            and science of music. We nurture talent from the ground up,
+            and science of music. We nurture the  talent from the ground up,
                 fostering a vibrant community of musicians.
          </p>
      </div>
